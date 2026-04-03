@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+data/watch_state.json
+data/amendments.jsonl
+data/building_state.json
+data/building_amendments.jsonl
+.DS_Store
